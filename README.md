@@ -5,11 +5,20 @@ A quick and dirty userscript to revert the recent changes to Twitter that shows 
 
 How does it work? This script inserts some CSS that hides inline photos for tweets closed tweets, but shows it for tweets that are open. The only JS is inserting the CSS!
 
-Installing
-----------
+Installing (Chrome)
+---------------------
 
-- Install your userscript plugin for your favourite modern browser
-- Download and install this script
+- Install the Tampermonkey extension
+- Download the script
+- Follow [the manual installation instructions](http://tampermonkey.net/faq.php#Q102)
+- Browse Twitter!
+
+Installing (Firefox)
+--------------------
+
+- Install the Greasemonkey extension
+- Download the script
+- Open the script with Firefox, prompting you to install it with Greasemonkey
 - Browse Twitter!
 
 Roadmap
